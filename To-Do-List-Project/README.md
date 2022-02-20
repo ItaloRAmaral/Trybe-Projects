@@ -1,5 +1,8 @@
-## Pixel Art Project
-###### By Italo Amaral
+## Pixel Art Project ###### By Italo Amaral
+
+##
+
+##### This project was carried out after a month of classes at trybe (HTML, CSS & JS) - 20/02/2022
 
 ##### In this project a list of tasks was developed using HTML, CSS and JavaScript.
 
