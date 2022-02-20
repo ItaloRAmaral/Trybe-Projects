@@ -1,4 +1,5 @@
-## Pixel Art Project ###### By Italo Amaral
+## Pixel Art Project 
+###### By Italo Amaral
 
 ##
 
