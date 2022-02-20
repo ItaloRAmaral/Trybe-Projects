@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'Pixel Art';
+  src: url('fonteDaPagina.ttf') format('truetype');
+  font-weight: normal;
+}
+
+body {
+  background-image: url(../Pixel-Art-Project/imagiDeFundo.png);
+  font-family: 'Pixel Art';
+  color: #FF78D0;
+  text-shadow: center;
+  text-shadow: -2px -2px 0px purple;
+}
+
+/* Header */
+
+header {
+  text-align: center;
+}
+
+/* Main */
+
+#main {
+  /* background-color: yellowgreen; */
+  display: inline-block;
+  width: 100%;
+  height: 545px;
+}
+
+/* Seção Personagem*/
+#personagem {
+  display: inline-block;
+  /* background-color: grey; */
+  width: 30%;
+  height: 545px;
+}
+
+#burger {
+  /* background-color: black; */
+  margin-top: 35%;
+  margin-left: 45%;
+}
+
+/* Paleta de Cores*/
+
+#paleta {
+  position: absolute;
+  /* background-color: purple; */
+  height: 545px;
+  width: 20%;
+  margin-left: 8% ;
+  display: inline-block;
+}
+
+#title {
+  text-align: center;
+  margin-top: 49%;
+}
+
+.color {
+  width:50px;
+  height: 50px;
+  display: inline-block;
+  border: 1px solid black;
+
+}
+
+#color1 {
+  background-color: black;
+}
+
+#color2 {
+  background-color: red;
+}
+
+#color3 {
+  background-color: yellow;
+}
+
+#color4 {
+  background-color: yellowgreen;
+}
+
+/*Quadro de Pixel*/
+
+#pixel-board{
+  /* background-color: blue; */
+  position: absolute;
+  display: inline-block;
+  height: 545px;
+  margin-top: 8%;
+  margin-left: 30%;
+  width: 25%;
+  text-align: center;
+
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  display: inline-block;
+  border: 1px solid black;
+}
