@@ -1,5 +1,5 @@
 ## Pixel Art Project 
-###### By _[Italo Amaral](https://www.linkedin.com/in/italo-rockenbach-594082132/)_ _[Pedro Pereira](https://www.linkedin.com/in/pedropereiradev/)_ _[Vinicius Cleiton](https://github.com/ViniciusCRJ)_
+###### By _[Italo Amaral](https://www.linkedin.com/in/italo-rockenbach-594082132/)_ & _[Pedro Pereira](https://www.linkedin.com/in/pedropereiradev/)_ & _[Vinicius Cleiton](https://github.com/ViniciusCRJ)_
 
 ##
 
