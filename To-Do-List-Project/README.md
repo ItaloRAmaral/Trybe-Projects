@@ -1,5 +1,5 @@
 ## Pixel Art Project 
-###### By Italo Amaral
+###### by _[Italo Amaral](https://www.linkedin.com/in/italo-rockenbach-594082132/)_
 
 ##
 
