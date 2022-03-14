@@ -1,4 +1,4 @@
-## IMC Calculator
+## BMI Calculator
 ###### by _[Italo Amaral](https://www.linkedin.com/in/italo-rockenbach-594082132/)_
 
 
