@@ -11,4 +11,21 @@
 ### -> Illustrative images of how it works.
 
 ###### 1. When you enter non-numeric values, this error message appears, suggesting you enter only numeric values.
-<img width=150px src="../IMC-Calculator/assets/img/1.png">
+<img width=300px src="../IMC-Calculator/assets/img/1.png">
+
+###### 2. When you are underweight, this orange alert appears warning you! And shows you your BMI!
+<img width=300px src="../IMC-Calculator/assets/img/2.png">
+
+###### 3. When you are at normal weight it gives you a green alert, and shows you your BMI!
+<img width=300px src="../IMC-Calculator/assets/img/3.png">
+
+###### 4. When you are at normal weight it gives you a green alert, and shows you your BMI!
+<div display="flex">
+<img width=300px src="../IMC-Calculator/assets/img/4.png">
+<img width=300px src="../IMC-Calculator/assets/img/5.png">
+<img width=300px src="../IMC-Calculator/assets/img/6.png">
+<img width=300px src="../IMC-Calculator/assets/img/7.png">
+<div>
+
+
+
