@@ -16,3 +16,4 @@
 ###### 2. Below is an example of what happens when we enter a zip code greater than 8 numbers, and also when we click search without typing anything.
 <img width=300px src="../CEP-Api/images/error.png">
 
+28/03/2022
