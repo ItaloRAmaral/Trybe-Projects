@@ -3,7 +3,7 @@
 
 
 ### -> What is this project?
-#### This mini project was intended to practice requesting information from an API, in this project VIACEP was used.
+#### This mini project was intended to practice requesting information from an API and showing it in HTML. In this project VIACEP API was used.
 
 ### -> How it works?
 #### We only need to inform the zip code (BR only) in the "CEP" field, and then click on search and the address, city and state will appear below.
