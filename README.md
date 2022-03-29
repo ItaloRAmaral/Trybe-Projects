@@ -16,6 +16,6 @@
 3- _[Trybewarts - 04/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Trybewarts-Project)_ <br>
 4- _[BMI Calculator - 15/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/BMI-Calculator)_<br>
 5- _[CEP Api - 28/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/CEP-Api)_<br>
-6- _[Simple Timer - 29/03/2022]()_<br>
+6- _[Simple Timer - 29/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Timer)_<br>
 
 ## 
