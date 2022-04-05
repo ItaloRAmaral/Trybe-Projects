@@ -1,0 +1,229 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+ background-color: black;
+}  
+
+/*  Header  */
+
+.header-container {
+    text-align: center;
+    /* background-color: grey; */
+}
+
+.main-title {
+    font-size: 2.5rem;
+    font-family: 'Indie Flower', cursive;
+    margin: 1% 0%;
+}
+
+.main-title h1 {
+    color: yellowgreen;
+}
+
+label {
+    color: white;
+}
+
+#search-box {
+    border: none;
+    outline: none;
+}
+
+/* Main Container */
+
+.main-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Card Sections */
+
+.series-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.favorites {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.displayFlex {
+    display: flex;
+}
+
+/* Card Serie */
+
+.card-serie {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid yellowgreen;
+    height: 350px;
+    width: 200px;
+    margin: 2% 0%;
+    border-radius: 5px;
+}
+
+.serie-image {
+    height: 265px;
+    border-bottom: 1px solid yellowgreen;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.serie-name{
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 5%;
+    color: white;
+}
+
+.serie-rating {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #999999;
+}
+
+.serie-id{
+    display: none;
+}
+
+.btn-div {
+    display: flex;
+    margin: 2.5% 0%;
+    justify-content: space-evenly;
+}
+
+/* Botoes */
+
+.watch-btn, .like-btn, .info-btn {
+ border: 1px solid yellowgreen;
+ border-radius: 5px;
+ background: transparent;
+ color: yellowgreen;
+ font-style: italic;
+ padding: 5px;
+ padding-right: 14px;
+ padding-left: 12px;
+ font-size: 10px;
+}
+
+.watch-btn:hover, .like-btn:hover, .info-btn:hover {
+ background-color: yellowgreen;
+ color: rgb(0, 0, 0);
+ border: 1px solid  yellowgreen;
+}
+
+.btn-filter, .btn-sort {
+    border: 1px solid yellowgreen;
+    border-radius: 5px;
+    background: transparent;
+    color: yellowgreen;
+    /* font-style: italic; */
+    padding: 5px;
+    padding-right: 14px;
+    padding-left: 12px;
+    font-size: 10px;
+}
+
+.btn-filter:hover , .btn-sort:hover {
+    background-color: yellowgreen;
+    color: rgb(0, 0, 0);
+    border: 1px solid  yellowgreen;
+}
+
+/* Favorite Serie */
+
+.fav-serie {
+    color: black;
+    background-color: yellowgreen;
+}
+/* Modal Container*/
+
+.modal-container {
+    display: none;
+    background: black;
+    height: 50vh;
+    margin: 5% 20%;
+    position: absolute;
+    width: 60%;
+    border-radius: 5px;
+    border: 1px solid yellowgreen;
+}
+
+.modal-image img {
+    height: 49.5vh;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-right: 1px solid #9acd32;
+}
+
+.modal-serieInfo {
+    color: white;
+    margin: 0% 1%;
+    overflow-y: scroll;
+}
+
+#modal-title {
+    font-size: 2.2rem;
+    margin: 1% 0%;
+    text-align: center;
+}
+
+#modal-genre, #modal-season, #modal-summary, #modal-cast, #modal-rating {
+    margin: 3% 0%;
+}
+
+#modal-close {
+    background-color: yellowgreen;
+    font-size: 1.5rem;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    border-radius: 100%;
+    position: absolute;
+    margin: -1%;
+}
+
+/* ScrollBar*/
+
+::-webkit-scrollbar {
+  width: 1px;
+  height: 1px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #9acd32;
+  border: 0px none #ffffff;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+  border: 0px none #ffffff;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #000000;
+}
+::-webkit-scrollbar-track:active {
+  background: #000000;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}

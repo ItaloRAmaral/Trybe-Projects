@@ -1,0 +1,20 @@
+{
+  "name": "extra-project-tryseries",
+  "version": "1.0.0",
+  "description": "### Termos e acordos",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryber/extra-project-tryseries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryber/extra-project-tryseries/issues"
+  },
+  "homepage": "https://github.com/tryber/extra-project-tryseries#readme"
+}

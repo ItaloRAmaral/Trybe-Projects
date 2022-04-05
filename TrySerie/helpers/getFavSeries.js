@@ -1,0 +1,1 @@
+const getFavSeries = () => JSON.parse(localStorage.getItem('favSeries'));

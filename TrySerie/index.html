@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Try Series</title>
+    <script src="https://kit.fontawesome.com/f1697b2e28.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- <script src="./helpers/fetchSeries.js" defer></script>
+    <script src="./helpers/fetchSeriesItem.js" defer></script>
+    <script src="./helpers/fetchSeasons.js" defer></script>
+    <script src="./helpers/fetchSerieCast.js" defer></script>
+    <script src="script.js" defer></script> -->
+  </head>
+
+  <body>
+    <header class="header-container">
+      <section class="main-title">
+        <h1>TrySeries</h1>
+      </section>
+      <section class="filter-container">
+        
+        <select id="genres">
+          <option selected>Genres</option>
+          <option>Action</option>
+          <option>Comedy</option>
+          <option>Horror</option>
+          <option>Romance</option>
+          <option>Drama</option>
+          <option>Science-Fiction</option>
+          <option>Thriller</option>
+          <option>Adventure</option>
+          <option>Mystery</option>
+          <option>Supernatural</option>
+          <option>Fantasy</option>
+        </select>
+        <label>Title:</label>
+        <input type="text" id="search-box" placeholder="Digite o que deseja filtrar">
+        <button class="btn-filter">Search/Reset</button>
+        <button class="btn-sort">Favorites</button>
+      </section>
+      
+    </header>
+    <main class="main-container">
+      <section class="series-card"></section>
+      <section class="favorites"></section>
+      <!-- Inicio Modal -->
+      <section class="modal-container">
+        <div class="modal-image">
+          <i class="fa-solid fa-xmark" id="modal-close"></i>
+          <img src="">
+        </div>
+        <div class="modal-serieInfo">
+          <!-- <i class="fa-solid fa-xmark" id="modal-close"></i> -->
+          <h1 id="modal-title"></h1>
+          <p id="modal-rating"></p>
+          <p id="modal-season"></p>
+          <p id="modal-genre"></p>
+          <p id="modal-summary"></p>
+          <p id="modal-cast"></p>
+        </div>
+      </section>
+      <!-- Fim Modal -->
+    </main>
+    <script src="./helpers/fetchSeries.js" defer></script>
+    <script src="./helpers/fetchSeriesItem.js" defer></script>
+    <script src="./helpers/fetchSeasons.js" defer></script>
+    <script src="./helpers/fetchSerieCast.js" defer></script>
+    <script src="./helpers/saveFavSeries.js" defer></script>
+    <script src="./helpers/getFavSeries.js" defer></script>
+    <script src="script.js" defer></script>
+  </body>
+
+</html>
