@@ -24,6 +24,6 @@ I had to develop a TrySeries website fetching for series data from the _[TVMaze 
 * JavaScript ES6+
 * GitHub Pages
 
-## :iphone: Mobile version
+## :iphone: How it Works
 
 <img src="./tryseries.gif">
