@@ -11,11 +11,17 @@
 
 ##  -> List of Projects to show my improvement.
 ####  Web fundamentals module {
-1- _[To do list - 24/02/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/To-Do-List-Project)_ <br>
-2- _[Pixel Art -  25/02/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Pixel-Art-Project)_<br>
-3- _[Trybewarts - 04/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Trybewarts-Project)_ <br>
-4- _[BMI Calculator - 15/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/BMI-Calculator)_<br>
-5- _[CEP Api - 28/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/CEP-Api)_<br>
-6- _[Simple Timer - 29/03/2022](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Timer)_<br>
+1- _[To do list](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/To-Do-List-Project)_ <br>
+2- _[Pixel Art](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Pixel-Art-Project)_<br>
+3- _[Trybewarts](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Trybewarts-Project)_ <br>
+4- _[BMI Calculator](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/BMI-Calculator)_<br>
+5- _[CEP Api](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/CEP-Api)_<br>
+6- _[Simple Timer](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/Timer)_<br>
+7- _[TrySerie](https://github.com/ItaloRAmaral/Trybe-Projects/tree/master/TrySerie)_<br>
 }
-## 
+##
+
+#### FrontEnd Module {
+1- _[TrybeWallet](https://github.com/ItaloRAmaral/Trybe-Wallet)_<br>
+2- _[Star Wars Planet Search](https://github.com/ItaloRAmaral/Star-Wars-Planet-Search)_<br>
+}
