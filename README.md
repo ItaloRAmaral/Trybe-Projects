@@ -24,4 +24,5 @@
 #### FrontEnd Module {
 1- _[TrybeWallet](https://github.com/ItaloRAmaral/Trybe-Wallet)_<br>
 2- _[Star Wars Planet Search](https://github.com/ItaloRAmaral/Star-Wars-Planet-Search)_<br>
+3- _[React Testing Library Project](https://github.com/ItaloRAmaral/React-Testing-Library)_<br>
 }
